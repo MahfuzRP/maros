@@ -1,0 +1,101 @@
+:root{
+    --main-color: #ff734a !important;
+    --secondary-hover: #524e4e !important;
+    --primary-hover: #ff734a !important;
+    --background: #ff734a !important;
+    --normal-color: #000 !important;
+    
+}
+#header .header-top{
+    background: var(--background);
+}
+#header .header-top .top-bar ul li a:hover{
+    color: var(--secondary-hover);
+}
+#header .header-top .horizontal-menu .list li{
+    color: var(--normal-color);
+}
+#header .header-top .horizontal-menu .list li:hover{
+    color: var(--main-color);
+}
+
+#header .header-middle .primary-menu ul li a:hover{
+    color: var(--main-color);
+}
+.biolife-cart-info .icon-qty-combine .qty{
+    background: var(--background);
+}
+.biolife-cart-info .minicart-block .cart-inner{
+    border-top-color: var(--main-color);
+}
+.minicart-item .left-info .product-name:hover{
+    color: var(--main-color)
+}
+.minicart-item.editing .action a.edit, .minicart-item .action a:hover{
+    color: var(--main-color);
+}
+.biolife-cart-info .minicart-block .btn-control .view-cart{
+    background-color: var(--background);
+}
+.vertical-category-block .block-title{
+    background-color: var(--background);
+}
+.vertical-category-block>.wrap-menu>.menu>li>a:hover{
+    color: var(--main-color);
+}
+.nice-select .option:hover{
+    color: var(--main-color);
+}
+.nice-select .option.selected.focus{
+    color: var(--main-color);
+}
+.header-search-bar.layout-01 .btn-submit:hover{
+    color: var(--main-color);
+}
+.header-area .live-info .telephone i{
+    color: var(--main-color);
+}
+.slider-opt03__layout02 .text-content{
+    display: none !important;
+}
+.slider-opt03__layout02 .media.background-geen-01{
+    background-image: url(image/slide1.png) !important;
+    background-size: contain;
+    background-position: 80px;
+}
+.slider-opt03__layout02 .media.background-geen-02{
+    background-image: url(image/slide2.png) !important;
+    background-size: contain;
+    background-position: 80px;
+}
+.slider-opt03__layout02 .media.background-geen-04{
+    background-image: url(image/slide4.png) !important;
+    background-size: contain;
+    background-position: 80px;
+}
+.slider-opt03__layout02 .media.background-geen-03{
+    background-image: url(image/slide3.png) !important;
+    background-size: contain;
+    background-position: 80px;
+}
+.slider-opt03__layout02 .media{
+    height: 470px !important;
+}
+.slider-opt04__layout01, .slider-opt03__layout02, .slider-opt03__layout01{
+    background-color: #c2fffa !important;
+}
+.biolife-carousel.dots_ring_style .slick-dots {
+    position: absolute;
+    bottom: -13px;
+    right: 216px;
+}
+.biolife-service__type01 .txt-show-01 {
+    font-size: 185px;
+}
+
+/* @media (min-width: 768px){
+.sm-margin-top-0 {
+    margin-top: 0;
+    z-index: 14 !important;
+}} */
+

@@ -1,0 +1,61 @@
+
+.pcoded .pcoded-header[header-theme="theme5"]{
+    background: -webkit-gradient(linear, left top, right top, from(#FF734A), to(#FF734AB3)) !important;
+    background: linear-gradient(to right, #FF734A, #FF734AB3) !important;
+  }
+
+
+  .header-navbar .navbar-wrapper .navbar-container .badge{
+    background: white;
+  }
+
+
+
+  .pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item li.pcoded-hasmenu .pcoded-submenu li > a {
+    color: black;
+    font-weight: 300;
+  }
+
+  .pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item li.pcoded-hasmenu .pcoded-submenu li > a:hover {
+    font-weight: 300;
+  }
+
+
+  .bg-c-blue {
+    background: linear-gradient(45deg, #FF734A, #FF734AB3);
+  }
+
+
+
+  .btn-primary, .sweet-alert button.confirm, .wizard > .actions a {
+    background-color: #FF734A;
+    border-color: #FF734A;
+    color: #fff;
+    cursor: pointer;
+    -webkit-transition: all ease-in 0.3s;
+    transition: all ease-in 0.3s;
+  }
+  .checkbox-fade.fade-in-primary .cr, .checkbox-fade.zoom-primary .cr, .checkbox-zoom.fade-in-primary .cr, .checkbox-zoom.zoom-primary .cr {
+    border: 2px solid #FF734A;
+  }
+
+  .error-500, .error-503, .error-404, .error-400, .error-403, .login{
+    background-image: url(assets/bg.jpg) !important;
+    background-size: cover;
+    background-position: center;
+  }
+  .common-img-bg {
+    background-size: cover;
+    background: linear-gradient(45deg, #FF734A, #FF734A);
+      background-color: rgba(0, 0, 0, 0);
+    height: 100%;
+  }
+
+  .auth-box {
+    background-color: #fff0;
+    border-radius: 8px;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    -webkit-box-shadow: 0 2px 18px -2px black;
+    box-shadow: 0 2px 18px -2px #8e8989;
+  }
