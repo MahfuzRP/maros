@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#game{
+    width: 400px;
+    height: 500px;
+    border-top: 1px solid black;
+    border-bottom: 2px solid #FF734a;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+    box-shadow: 0 0 5px lightgray;
+    background: url('field.png');
+}
+#character{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 400px;
+    left: 190px;
+    z-index: 1000000;
+}
+#character img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.block{
+    width: 400px;
+    height: 20px;
+    background-color: #000;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;
+}
+.hole{
+    width: 40px;
+    height: 20px;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;
+}
+
+.detail{
+    position: absolute;
+    top: 32%;
+    font-family: poppins;
+    text-align: center;
+    left: 3.5%;
+}
+.detail h1{
+    text-transform: uppercase;
+    color: #FF734a;
+}
+.detail span{
+    color: black;
+}
+.detail p{
+    font-size: 18px;
+    margin-top: -10px;
+}
+.detail .btn button{
+    font-size: 20px;
+    width: 110px;
+    padding: 5px;
+    background: #FF734a;
+    border-radius: 5px;
+    border: 2px solid #000;
+    outline: none;
+    cursor: pointer;
+    margin: 1rem 5px;
+}
+.btn button:hover{
+    background: #e95d33;
+}
+.detail .last a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+}
+.detail button.last{
+    border: 2px solid #000;
+    padding: 3px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.detail button.last:hover a{
+    color: #FF734a;
+}
+.right-detail{
+    font-family: poppins;
+    position: absolute;
+    right: 2.9%;
+    width: 30%;
+    text-align: justify;
+    top: 3%;
+    padding-left: 5px;
+}
+.right-detail h3{
+    font-size: 16px;
+    font-weight: 500;
+}
+.right-detail p{
+    font-size: 15px;
+    line-height: 27px;
+    letter-spacing: .2px;
+}
+.right-detail strong{
+    color: #FF734a;
+    font-weight: 500;
+}
+h3.crdt{
+    margin-top: 2.5rem;
+    text-decoration: underline;
+}

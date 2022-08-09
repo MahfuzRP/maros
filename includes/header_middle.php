@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-2 col-md-6 col-xs-6">
-                <a href="http://localhost/newprojects/ecom/ecom/" class="biolife-logo h2"><img style="margin-top: -15px;" src="assets/logo-dark.png" alt=""></a>
+                <a href="http://localhost/maros" class="biolife-logo h2"><img style="margin-top: -15px;" src="assets/logo-dark.png" alt=""></a>
             </div>
             <div class="col-lg-6 col-md-7 hidden-sm hidden-xs">
                 <div class="primary-menu">
@@ -172,8 +172,8 @@
                                         </li>
                                     </ul>
                                     <p class="btn-control">
-                                        <a href="#" class="btn view-cart">view cart</a>
-                                        <a href="#" class="btn">checkout</a>
+                                        <a href="http://localhost/maros/addtocart.php" class="btn view-cart">view cart</a>
+                                        <a href="http://localhost/maros/user_profile.php" class="btn">Confirm Order</a>
                                     </p>
                                 </div>
                             </div>

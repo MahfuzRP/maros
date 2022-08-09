@@ -124,7 +124,7 @@ if(isset($_POST['remove_product'])){
                                         } ?>
                                         <tr class="cart_item wrap-buttons">
                                             <td class="wrap-btn-control" colspan="4">
-                                                <a class="btn back-to-shop">Back to Shop</a>
+                                                <a href="http://localhost/maros" class="btn back-to-shop">Back to Shop</a>
                                                 <button class="btn btn-update" type="submit" disabled>update</button>
                                                 <button class="btn btn-clear" type="reset">clear all</button>
                                             </td>

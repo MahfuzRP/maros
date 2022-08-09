@@ -72,7 +72,7 @@ $related_product=$obj->related_product($cat_id);
                         <!-- Main content -->
                         <div id="main-content" class="main-content">
                         <?php foreach($pros as $pro){ ?>
-                            <form action="addtocart.php" method="post">
+                            <form action="user_profile.php" method="post">
                             <div>
                                 <!-- summary info -->
                                 <div class="sumary-product single-layout">
@@ -92,7 +92,7 @@ $related_product=$obj->related_product($cat_id);
                                         <span class="sku">Sku: #<?php echo $pro['pdt_id']; ?></span>
                                         <p class="excerpt"><?php echo $pro['pdt_des']; ?></p>
                                         <div class="price">
-                                            <ins><span class="price-amount"><span class="currencySymbol">£</span><?php echo $pro['pdt_price']; ?></span></ins>
+                                            <ins><span class="price-amount"><span class="currencySymbol">৳</span><?php echo $pro['pdt_price']; ?></span></ins>
                                         </div>
                                         <div class="shipping-info">
                                             <p class="shipping-day">3-Day Shipping</p>
@@ -104,7 +104,7 @@ $related_product=$obj->related_product($cat_id);
                                             <span class="title">Product Price:</span>
                                             <p class="price">
                                             <?php 
-                                                echo '£'.$pro['pdt_price'];
+                                                echo '৳'.$pro['pdt_price'];
                                             ?>
                                             
                                             </p>
@@ -164,11 +164,11 @@ $related_product=$obj->related_product($cat_id);
                                             <p class="desc">Quisque quis ipsum venenatis, fermentum ante volutpat, ornare enim. Phasellus molestie risus non aliquet cursus. Integer vestibulum mi lorem, id hendrerit ante lobortis non. Nunc ante ante, lobortis non pretium non, vulputate vel nisi. Maecenas dolor elit, fringilla nec turpis ac, auctor vulputate nulla. Phasellus sed laoreet velit.
                                                 Proin fringilla urna vel mattis euismod. Etiam sodales, massa non tincidunt iaculis, mauris libero scelerisque justo, ut rutrum lectus urna sit amet quam. Nulla maximus vestibulum mi vitae accumsan. Donec sit amet ligula et enim semper viverra a in arcu. Vestibulum enim ligula, varius sed enim vitae, posuere molestie velit. Morbi risus orci, congue in nulla at, sodales fermentum magna.</p>
                                             <div class="desc-expand">
-                                                <span class="title">Organic Fresh Fruit</span>
+                                                <span class="title">Best quality product</span>
                                                 <ul class="list">
-                                                    <li>100% real fruit ingredients</li>
-                                                    <li>100 fresh fruit bags individually wrapped</li>
-                                                    <li>Blending Eastern & Western traditions, naturally</li>
+                                                    <li>100% real maros product</li>
+                                                    <li>100% real time delivery</li>
+                                                    <li>Best quality product in maros.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -203,7 +203,7 @@ $related_product=$obj->related_product($cat_id);
                                                                     <li>Standard (in transit 3-5 business days)</li>
                                                                     <li>Priority (in transit 2-3 business days)</li>
                                                                     <li>Express (in transit 1-2 business days)</li>
-                                                                    <li>Gift Card Orders are shipped via USPS First Class Mail. First Class mail will be delivered within 8 business days</li>
+                                                                    <li>Gift Card Orders are shipped via USPS product Class Mail. First Class mail will be delivered within 8 business days</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -338,7 +338,7 @@ $related_product=$obj->related_product($cat_id);
                                                                             <p class="star-rating"><span class="width-80percent"></span></p>
                                                                         </div>
                                                                         <p class="author">by: <b>Shop organic</b></p>
-                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality fresh fruit and vegetables. At Fresh Fruits we work to deliver the world’s freshest, choicest, and juiciest produce to discerning customers across the UAE and GCC.</p>
+                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality good product and trusted. At our employe we work to deliver the world’s freshest, choicest, and amazing produce to discerning customers across the BD and UK.</p>
                                                                     </div>
                                                                     <div class="comment-review-form col-lg-3 col-lg-offset-1 col-md-3 col-sm-4 col-xs-12">
                                                                         <span class="title">Was this review helpful?</span>
@@ -360,7 +360,7 @@ $related_product=$obj->related_product($cat_id);
                                                                             <p class="star-rating"><span class="width-80percent"></span></p>
                                                                         </div>
                                                                         <p class="author">by: <b>Shop organic</b></p>
-                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality fresh fruit and vegetables. At Fresh Fruits we work to deliver the world’s freshest, choicest, and juiciest produce to discerning customers across the UAE and GCC.</p>
+                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality product and technology. At our employe we work to deliver the world’s amazing produce to discerning customers across the BD and UK.</p>
                                                                     </div>
                                                                     <div class="comment-review-form col-lg-3 col-lg-offset-1 col-md-3 col-sm-4 col-xs-12">
                                                                         <span class="title">Was this review helpful?</span>
@@ -382,7 +382,7 @@ $related_product=$obj->related_product($cat_id);
                                                                             <p class="star-rating"><span class="width-80percent"></span></p>
                                                                         </div>
                                                                         <p class="author">by: <b>Shop organic</b></p>
-                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality fresh fruit and vegetables. At Fresh Fruits we work to deliver the world’s freshest, choicest, and juiciest produce to discerning customers across the UAE and GCC.</p>
+                                                                        <p class="comment-text">There are few things in life that please people more than the succulence of quality fresh Product and amazing. At best employe we work to deliver the world’s freshest, choicest, and good produce to discerning customers across the BD and UK.</p>
                                                                     </div>
                                                                     <div class="comment-review-form col-lg-3 col-lg-offset-1 col-md-3 col-sm-4 col-xs-12">
                                                                         <span class="title">Was this review helpful?</span>
@@ -436,7 +436,7 @@ $related_product=$obj->related_product($cat_id);
                                                     <b class="categories"><?php echo $rpro['ctg_name']; ?></b>
                                                     <h4 class="product-title"><a href="single_product.php?status=sigleproduct&&id=<?php echo $rpro['pdt_id']; ?>" class="pr-name"><?php echo $rpro['pdt_name']; ?></a></h4>
                                                     <div class="price">
-                                                        <ins><span class="price-amount"><span class="currencySymbol">£</span><?php echo $rpro['pdt_price']; ?></span></ins>
+                                                        <ins><span class="price-amount"><span class="currencySymbol">৳</span><?php echo $rpro['pdt_price']; ?></span></ins>
                                                     </div>
                                                     <div class="slide-down-box">
                                                         <p class="message">All products are carefully selected to ensure food safety.</p>

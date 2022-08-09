@@ -16,8 +16,8 @@
                                         <div class="product-detail">
                                             <h4 class="product-name">National TechHub Production</h4>
                                             <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                <ins><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></ins>
+                                                <del><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></del>
                                             </div>
                                             <div class="buttons">
                                                 <a href="#" class="btn add-to-cart-btn"></i>add to cart</a>
@@ -42,8 +42,8 @@
                                         <div class="product-detail">
                                             <h4 class="product-name">Walton Production</h4>
                                             <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                <ins><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></ins>
+                                                <del><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></del>
                                             </div>
                                             <div class="buttons">
                                                 <a href="#" class="btn add-to-cart-btn"></i>add to cart</a>
@@ -68,8 +68,8 @@
                                         <div class="product-detail">
                                             <h4 class="product-name">National Fresh Fruit Production</h4>
                                             <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                <ins><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></ins>
+                                                <del><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></del>
                                             </div>
                                             <div class="buttons">
                                                 <a href="#" class="btn add-to-cart-btn">add to cart</a>
@@ -94,8 +94,8 @@
                                         <div class="product-detail">
                                             <h4 class="product-name">World Fashion Ltd</h4>
                                             <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                <ins><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></ins>
+                                                <del><span class="price-amount"><span class="currencySymbol">৳</span>0.00</span></del>
                                             </div>
                                             <div class="buttons">
                                                 <a href="#" class="btn add-to-cart-btn">add to cart</a>

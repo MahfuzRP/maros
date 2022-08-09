@@ -14,8 +14,8 @@
                                                 <b class="categories">Grocery</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Amaricann Rice</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>85</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>95</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -35,8 +35,8 @@
                                                 <b class="categories">Technology</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">HP Latest Laptop</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>5000.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>5100.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>50000</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>51200</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -56,8 +56,8 @@
                                                 <b class="categories">Shopping</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Dresses</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>45.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>55.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>950</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>1000</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -77,8 +77,8 @@
                                                 <b class="categories">Fast Food</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Chicken Fries</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>20.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>25.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>155</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>180</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -98,8 +98,8 @@
                                                 <b class="categories">Grocery</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Amaricann Rice</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>85</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>95</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -119,8 +119,8 @@
                                                 <b class="categories">Technology</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">HP Latest Laptop</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>5000.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>5100.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>50,000</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>51,200</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -140,8 +140,8 @@
                                                 <b class="categories">Shopping</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Dresses</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>45.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>55.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>950</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>1,000</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -161,8 +161,8 @@
                                                 <b class="categories">Fast Food</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Chicken Fries</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>20.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>25.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>155</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>180</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -181,8 +181,8 @@
                                                 <b class="categories">Technology</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">HP Latest Laptop</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>5000.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>5100.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>50,000</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>51,000</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -202,8 +202,8 @@
                                                 <b class="categories">Shopping</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Dresses</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>45.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>55.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>950</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>1,000</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -223,8 +223,8 @@
                                                 <b class="categories">Fast Food</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Chicken Fries</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>20.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>25.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>155</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>180</span></del>
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>

@@ -86,14 +86,14 @@ if(isset($_GET['status'])){
                                                         <b class="categories"><?php echo $pro['ctg_name']; ?></b>
                                                         <h4 class="product-title"><a href="single_product.php?status=sigleproduct&&id=<?php echo $pro['pdt_id']; ?>" class="pr-name"><?php echo $pro['pdt_name']; ?></a></h4>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span><?php echo $pro['pdt_price']; ?></span></ins>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">৳</span><?php echo $pro['pdt_price']; ?></span></ins>
                                                         </div>
                                                         <div class="shipping-info">
                                                             <p class="shipping-day">3-Day Shipping</p>
                                                             <p class="for-today">Free Pickup Today</p>
                                                         </div>
                                                         <div class="slide-down-box">
-                                                            <p class="message">All products are carefully selected to ensure food safety.</p>
+                                                            <p class="message">All products are carefully checked by owner <strong>Mahfuz RP</strong>.</p>
                                                             <div class="buttons">
                                                                 <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
                                                                 <a href="#" class="btn add-to-cart-btn"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i>add to cart</a>

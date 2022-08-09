@@ -18,8 +18,8 @@
                                                 <b class="categories">Electronic's</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">42" LED TV</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>150.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>300.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>30,3050</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>67,000</span></del>
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">All products are carefully selected to ensure your safety.</p>
@@ -47,8 +47,8 @@
                                                 <b class="categories">Technology</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Digital Camera Drone</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>250.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>500.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>15,250</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>35,000</span></del>
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">All products are carefully selected to ensure your safety.</p>
@@ -76,8 +76,8 @@
                                                 <b class="categories">Fashion</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">Dresses Collection</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>35.00</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>70.00</span></del>
+                                                    <ins><span class="price-amount"><span class="currencySymbol">৳</span>850</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">৳</span>1,700</span></del>
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">All products are carefully selected to ensure your safety.</p>
